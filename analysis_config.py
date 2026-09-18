@@ -1,4 +1,6 @@
 """Configuration used in the merge conflict demonstration."""
 
-SUMMARY_METRICS = ["mean", "std", "FFFF"]
+
+SUMMARY_METRICS = ["mean", "median", "mode"]
+
 
